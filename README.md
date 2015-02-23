@@ -1,4 +1,4 @@
-BBB
+RBB
 ==================
 
 Simple SPA using ReactJS + Browserfy + Bootstrap
@@ -19,4 +19,4 @@ In order to start using.
 * Enjoy !
 
 You can see it in:
-[BBB](http://omerherera.github.io/RBB/)
+[RBB](http://omerherera.github.io/RBB/)
