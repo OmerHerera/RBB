@@ -1,0 +1,21 @@
+{
+  "name": "RBB",
+  "version": "0.0.1",
+  "description": "Simple SPA using ReactJS, Browserify, Bootstrap",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omher",
+  "license": "MIT",
+  "dependencies": {
+      "browserify": "^9.0.3",
+      "react": "^0.12.2",
+      "underscore": "^1.8.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.4.0",
+    "grunt-react": "^0.10.0"
+  }
+}
